@@ -34,7 +34,7 @@ Within Team 'CASE,' I assumed a pivotal role in several aspects of the project:
 
 You can view the final assembly of our design, created using SolidWorks, below.
 
-![JetCAD](../README_Files/JetCAD.png)
+![JetCAD](./README_Files/JetCAD.png)
 
 For a more detailed understanding of our project, including in-depth findings and analyses, please refer to the comprehensive report provided herein.
 
