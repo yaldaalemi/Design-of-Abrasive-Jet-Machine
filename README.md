@@ -24,11 +24,11 @@ Within Team 'CASE,' I assumed a pivotal role in several aspects of the project:
 
 - **Material Selection:** I conducted extensive research to identify the most suitable material for the abrasive particles, considering key factors such as hardness, abrasiveness, and wear resistance.
 
-- **Mechanical Design:** I played a significant role in the 3D design of the mechanism, ensuring its functionality, efficiency, and reliability.
+- **Mechanical Design:** I played a significant role in the design of the mechanism, ensuring its functionality, efficiency, and reliability.
 
 - **Shaft Diameter Calculation:** My responsibilities included calculating the minimum shaft diameter necessary to prevent fatigue failure, thus ensuring the safety and longevity of the device.
 
-- **3D Design Work:** I contributed significantly to the project's 3D design work, enabling us to visualize and refine our proposed mechanism.
+- **3D Design Work:** I contributed significantly to the project's 3D design work, enabling us to visualize and refine our proposed mechanism using SolidWorks.
 
 ## Final Assembly and Report
 
