@@ -1,10 +1,10 @@
 # Project Abstract: Abrasive Jet Micromachining
 
-Abrasive Jet Micromachining is an innovative process used to precision machine hard and brittle materials, such as glasses and ceramics, which are traditionally challenging to fabricate using conventional methods. This process employs a focused stream of pressurized air to accelerate micro-abrasive particles, allowing for the mechanical etching of workpieces without generating heat or adversely affecting their properties.
+Abrasive Jet Micromachining is an innovative process used to machine hard and brittle materials, such as glasses and ceramics, which are traditionally challenging to fabricate using conventional methods. This process employs a focused stream of pressurized air to accelerate micro-abrasive particles, allowing for the mechanical etching of workpieces without generating heat or adversely affecting their properties.
 
 ## The 'Blast Lag' Challenge
 
-One significant challenge in abrasive jet micromachining is the occurrence of 'Blast lag.' This phenomenon is observed when the jet stream results in channels that are shallower than wider ones, resulting in a V-shaped cross-sectional profile. This effect primarily stems from the brittle fracture of the substrate during erosion.
+One significant challenge in abrasive jet micromachining is the occurrence of 'Blast lag.' Usually, when the feature sizes are less than the jet footprint, a patterned masking technology is used to protect the substrate. However, for small mask openings, it is found that the jet stream results in channels that are shallower than wider ones; a phenomenon called ‘Blast lag’. It is due to the fact that the brittle fracture of substrate is the predominant mode of erosion which results in forming V-shaped cross-sectional channels.
 
 ## Eliminating 'Blast Lag'
 
